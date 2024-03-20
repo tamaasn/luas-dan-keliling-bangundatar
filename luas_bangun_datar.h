@@ -1,4 +1,4 @@
-#define PI 22/7
+#define PI 3.14
 
 double luas_persegi(double s){
   return s*s;
